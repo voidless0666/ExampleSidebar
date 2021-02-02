@@ -1,0 +1,7 @@
+name: ExampleSidebar
+version: 1.0
+author: Voidless#0666
+main: me.voidless.example.Example
+commands:
+  example:
+    usage: /example hide player, /example hideall player, /example show player, /example showall player
